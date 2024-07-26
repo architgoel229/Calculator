@@ -1,0 +1,30 @@
+@media only screen and (max-width:775px){
+    .calculator{
+        scale:0.75;
+    }
+}
+@media only screen and (max-width:600px){
+    .calculator{
+        scale:0.5;
+    }
+}
+@media only screen and (max-width:380px){
+    .calculator{
+        scale:0.4;
+    }
+}
+@media only screen and (max-height:660px){
+    .calculator{
+        scale:0.75;
+    }
+}
+@media only screen and (max-height:500px){
+    .calculator{
+        scale:0.5;
+    }
+}
+@media only screen and (max-height:350px){
+    .calculator{
+        scale:0.4;
+    }
+}
